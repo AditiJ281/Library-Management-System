@@ -1,4 +1,4 @@
-# Library-Management-System
+
 # 📚 Library Management System – Full Stack (React + Spring Boot + MySQL)
 
 A full-featured web application for managing books, users, and borrowing activity in a library. Built using React for frontend and Java (Spring Boot) for backend.
